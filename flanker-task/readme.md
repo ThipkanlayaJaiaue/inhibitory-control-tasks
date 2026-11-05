@@ -67,11 +67,11 @@ Experimental block
 - Text and colour controlled in the *Begin Routine* of practFB_code component
 - Location:  `practiceTrial_feedback`
 
-**2.3 Target Accuracy Threshold**
+**2.2 Target Accuracy Threshold**
 - Controlled in the *End Routine* of practFB_code2 component
 - Location:  `practiceBlock_feedback`
 
-**2.4 Practice Repetition**
+**2.3 Practice Repetition**
 - Controlled in the `Num. repeats` field of the `practiceRepetition` loop
 
 
@@ -81,5 +81,5 @@ Experimental block
 ### 🗃️ **Process the data**
 
 Data collected from each task can be processed using *processFlanker.py*
-⚠️ Make sure the list of folder paths (line 7) is updated to match the location of your data folder(s).
+⚠️ Make sure the list of folder paths (line 6) is updated to match the location of your data folder(s).
 
