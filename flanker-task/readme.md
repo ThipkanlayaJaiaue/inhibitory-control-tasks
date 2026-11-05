@@ -13,11 +13,7 @@ Each task includes:
 3\. An experimental block
 
 
-
-
-
 ### 1. Both Practice and Experimental Blocks
-
 
 
 **1.1 Stimulus Sequences Control**
@@ -52,13 +48,9 @@ Experimental block
 ⚠️ Must also match the allowedKeys field of the xTrial_key component in `practiceTrial` and `experimentalTrial`
 
 
-
 **1.2 Data Identification and Recording**
 - Controlled in the x_addData component
 - Location:  `practiceTrial` or `experimentalTrial`
-
-
-
 
 
 ### 2. Practice Block Settings
