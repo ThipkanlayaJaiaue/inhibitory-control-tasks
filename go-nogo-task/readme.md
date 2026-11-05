@@ -1,6 +1,6 @@
 # **Go/No-Go Task**
 
-This task includes: instructions, a practice block, and an experimental block
+This task consisted of three familiarisation blocks followed by an experimental task.
 
 
 ### ⚙️ **Familiarisation**
