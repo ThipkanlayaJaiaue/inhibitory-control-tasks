@@ -1,10 +1,6 @@
 # **Go/No-Go Task**
 
-
-## 🔧 Task setup and modification (user-friendly guide)
-
-
-Each task includes:
+This task includes:
 
 1\. Instructions
 
@@ -12,6 +8,24 @@ Each task includes:
 
 3\. An experimental block
 
+
+### ⚙️ **Familiarisation**
+
+* Complete 20 trials assessing response inhibition by responding to Go letters and withholding responses to the designated No-Go letter.
+* One block of 20 trials, preceded by a 2000-ms instruction screen indicating the designated No-Go letter, selected from a pool of five letters (A–E)
+* Trial sequence: Fixation cross (500–700 ms), followed by a letter (1000 ms).
+* Trial composition: 80% Go and 20% No-Go trials, presented in random order, with each letter appearing in 20% of trials.
+* Repeat until participants achieve ≥70% accuracy overall and ≥70% correct response inhibition.
+
+### ⚙️ **Experimental Task**
+
+* Five blocks of 60 trials, separated by 2000-ms interruptions to indicate the designated No-Go letter, selected from a pool of five letters (A–E).
+* Trial sequence: Fixation cross (450–700 ms), followed by a letter (1000 ms).
+* Trial composition: 80% Go and 20% No-Go trials, presented in random order, with each letter appearing in 20% of trials.
+
+---
+
+## 🔧 Task setup and modification (user-friendly guide)
 
 ### 1. Both Practice and Experimental Blocks
 
