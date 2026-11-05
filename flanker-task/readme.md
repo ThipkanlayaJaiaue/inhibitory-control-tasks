@@ -1,13 +1,7 @@
 # **Flanker Task**
 
 
-Each task includes:
-
-1\. Instructions
-
-2\. A practice block
-
-3\. An experimental block
+This task consisted of a familiarisation block followed by an experimental task.
 
 ### ⚙️ **Familiarisation**
 
