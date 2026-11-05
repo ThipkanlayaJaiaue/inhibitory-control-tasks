@@ -66,5 +66,5 @@ Experimental block
 ### 🗃️ **Process the data**
 
 Data collected from each task can be processed using *processGoNogo.py*
-⚠️ Make sure the list of folder paths (line 6) is updated to match the location of your data folder(s).
+⚠️ Make sure the list of folder paths (line 7) is updated to match the location of your data folder.
 
