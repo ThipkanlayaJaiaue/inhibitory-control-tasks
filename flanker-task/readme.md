@@ -1,9 +1,6 @@
 # **Flanker Task**
 
 
-## 🔧 Task setup and modification (user-friendly guide)
-
-
 Each task includes:
 
 1\. Instructions
@@ -11,6 +8,22 @@ Each task includes:
 2\. A practice block
 
 3\. An experimental block
+
+### ⚙️ **Familiarisation**
+
+* Complete 20 trials identifying the direction of the central arrow while ignoring flanking distractors.
+* Trial sequence: Fixation cross (500–700 ms) followed by a horizontal array of five arrows (1000 ms).
+* Trial composition: 80% congruent and 20% incongruent, presented in random order.
+* Repeat until ≥70% accuracy.
+
+### ⚙️ **Experimental Task**
+- One uninterrupted block of 300 trials.
+- Trial sequence: Fixation cross (450–700 ms) followed by a horizontal array of five arrows (1000 ms).
+- Trial composition: 80% congruent and 20% incongruent, presented in random order.
+
+---
+
+## 🔧 Task setup and modification (user-friendly guide)
 
 
 ### 1. Both Practice and Experimental Blocks
