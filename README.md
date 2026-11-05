@@ -1,8 +1,19 @@
 # **Inhibitory Control Tasks**
 
-###### *All tasks are compatible with *PsychoPy version 2025.1.1**
+This repository contains two PsychoPy-implemented inhibitory control tasks:  **Flanker** and **Go/No-Go**. 
 
-### 🔧 **Task setup and modification instructions (coming soon)**
+Each task is accompanied by a dedicated processing script that transforms the collected data into structured dataframes.
+
+### **A. Flanker Task**
+
+![Flanker](https://github.com/ThipkanlayaJaiaue/inhibitory-control-tasks/blob/main/flanker-task/flanker.gif)
+
+### **B. Go/No-Go Task**
+
+![Go/No-Go](https://github.com/ThipkanlayaJaiaue/inhibitory-control-tasks/blob/main/go-nogo-task/gonogo.gif)
+
+
+###### *All tasks are compatible with *PsychoPy version 2025.1.1**
 
 ---
 ### ❝ ❞ **How to cite**
